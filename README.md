@@ -131,10 +131,6 @@ TIMEFRAME = "1h"    # 1 saatlik mumlar
 GUN_SAYISI = 30     # 30 gunluk veri
 ```
 
-### API key gerekli mi?
-
-Hayir. Public veriler kullaniliyor, API key gerekmiyor.
-
 ### Hangi borsalar destekleniyor?
 
 100+ borsa: Binance, Bybit, OKX, Kraken, Coinbase, Huobi, KuCoin ve daha fazlasi.
