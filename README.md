@@ -135,10 +135,6 @@ GUN_SAYISI = 30     # 30 gunluk veri
 
 100+ borsa: Binance, Bybit, OKX, Kraken, Coinbase, Huobi, KuCoin ve daha fazlasi.
 
-### Sonuclar ne kadar guvenilir?
-
-Ensemble voting kullanarak %90-95 guvenilirlik saglaniyor. Oy sayisi yuksek anomaliler daha guvenilirdir.
-
 ### Program ne kadar surede calisiyor?
 
 60 gunluk veri icin yaklasik 30-60 saniye.
